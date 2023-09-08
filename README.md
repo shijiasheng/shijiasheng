@@ -4,5 +4,3 @@
   <h3 align="center">Trying to do better</h3>
 </p>
 
-
-![Visitor Count](https://profile-counter.glitch.me/shijiasheng/count.svg)
