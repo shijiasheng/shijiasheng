@@ -1,3 +1,1 @@
-"# shijiasheng" 
-"# shijiasheng" 
-"# shijiasheng" 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shijiasheng)](https://github.com/anuraghazra/github-readme-stats)
